@@ -1,5 +1,5 @@
 # primos_dentro_rango
-Creación de números primos dentro de un rango.
+Creación de números primos dentro de un rango.  
 (Sujeto a límite de recursividad de la máquina.)
 
 ## ¿Qué son los números primos? 🤔
